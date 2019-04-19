@@ -1,0 +1,98 @@
+#include "DigiKeyboard.h"
+
+#define KEY_ARROW_UP        82
+#define KEY_ARROW_DOWN      81
+#define KEY_ARROW_LEFT      80
+#define KEY_ARROW_RIGHT 79
+void setup() {
+}
+
+void loop() {
+  DigiKeyboard.sendKeyStroke(0);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_P, MOD_CONTROL_LEFT);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ARROW_DOWN);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(800);
+  
+
+
+
+    for(;;){ /*empty*/ }
+}

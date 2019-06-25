@@ -1,0 +1,4 @@
+JSON file For DIGISPARK:-http://digistump.com/package_digistump_index.json
+install board:-Digistump AVR Boards by Digistump
+select Board:-Digispark pro (default 16mhz)
+Programmer:-USBtinyISP

